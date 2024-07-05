@@ -1,1 +1,1 @@
-# Kubernetes-CICD with Jenkins (feat. Arco CD)
+### Argo CD (at local K8s) watching this repo
