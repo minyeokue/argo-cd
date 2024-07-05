@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: minyeokue/webapp
+        image: minyeokue/webapp:2
         ports:
         - containerPort: 8080
